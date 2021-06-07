@@ -9,8 +9,8 @@
         <module name="epidemicData" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="epidemicData" target="8" />
+    <bytecodeTargetLevel target="13">
+      <module name="epidemicData" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>
